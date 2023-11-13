@@ -15,4 +15,4 @@ index.html: Define la estructura HTML para la página, incluyendo secciones para
 Users.js: Contiene funciones para obtener datos de usuarios desde la API jsonplaceholder.typicode.com y mostrarlos en una tabla.
 Pokemon.js: Implementa funciones para consultar la API pokeapi.co y mostrar detalles de Pokémon en la interfaz, así como para la selección aleatoria de Pokémon para la batalla.
 
-<img src="img_api.png" alt="Captura de Pantalla" style="width: 50%; height: auto;">
+<img src="img_api.png" alt="Captura de Pantalla" style="width: 100%; height: auto;">
